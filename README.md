@@ -1,5 +1,18 @@
-# 💫 About Me:
-I'm an AI engineering student at École Polytechnique<br>Graduated as a Data & BI Analyst from École Polytechnique in 2023<br>I code and work on multiple AI projects
+# 👋 Hi, I'm Islem Ben Ameur
+
+### AI Engineering Student | Machine Learning & Deep Learning | Data Science
+
+## 💫 About Me
+
+I'm an **AI Engineering student at École Polytechnique de Sousse**, with a background in **Data Science and Business Intelligence**.
+
+I'm passionate about Artificial Intelligence research and development, particularly in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Generative AI.
+
+🔬 Exploring AI architectures, experimenting with algorithms, and developing intelligent solutions to real-world challenges.
+
+🧠 Interested in AI research, model development, explainability, and emerging AI technologies.
+
+🚀 Always learning, experimenting, and building AI-powered applications.
 
 
 ## 🌐 Socials:
